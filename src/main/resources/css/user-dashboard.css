@@ -1,0 +1,11 @@
+.side-nav {
+    -fx-background-color: #578FCA;
+}
+.booking-card {
+    -fx-border-color: black;
+    -fx-border-radius: 8px;
+    -fx-spacing: 8px;
+    -fx-padding: 8px;
+    -fx-pref-width: 300;
+    -fx-pref-height: 120;
+}

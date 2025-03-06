@@ -1,0 +1,77 @@
+
+.body {
+    -fx-background-color: #F2EFE7;
+}
+
+.default-button {
+    -fx-background-color: #1d89f3;
+    -fx-text-fill: #F2EFE7;
+    -fx-font-weight: 800;
+    -fx-font-family: "Lucida Fax";
+    -fx-cursor: HAND;
+}
+.cancel-button {
+    -fx-background-color: #cd0303;
+    -fx-text-fill: #F2EFE7;
+    -fx-font-weight: 800;
+    -fx-font-family: "Lucida Fax";
+    -fx-cursor: HAND;
+    -fx-padding: 8;
+}
+
+.default-text-field {
+    -fx-background-color: transparent;
+    -fx-border-color: #1d89f3;
+    -fx-border-radius: 5px;
+    -fx-border-width: 1.3px;
+    -fx-font-family: "Lucida Fax";
+}
+.property-card {
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+    -fx-pref-width: 300;
+    -fx-pref-height: 200;
+    -fx-padding: 15 10 15 10;
+}
+
+.property-card-host {
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+    -fx-pref-width: 300;
+    -fx-padding: 15 10 15 10;
+    -fx-spacing: 10px;
+}
+.booking-card-customer {
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+    -fx-padding: 15 10 15 10;
+    -fx-spacing: 15px;
+    -fx-pref-height: 134;
+    -fx-pref-width: 400;
+}
+
+.property-name {
+    -fx-font-weight: 700;
+    -fx-font-size: 15px;
+}
+
+.property-address {
+    -fx-font-weight: normal;
+    -fx-font-size: 12px;
+    -fx-wrap-text: true;
+}
+
+.property-description {
+    -fx-font-weight: normal;
+    -fx-font-size: 12px;
+    -fx-wrap-text: true;
+    -fx-pref-height: 90;
+}
+
+.label {
+    -fx-font-family: "Lucida Fax";
+}
+.label-bold {
+    -fx-font-weight: 800;
+}
+
